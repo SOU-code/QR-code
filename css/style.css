@@ -24,7 +24,7 @@ p{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 20%;
+    max-width: 300px;
     text-align: center;
     border-radius: 1.5rem;
 }
